@@ -2,3 +2,7 @@ node_modules/
 npm-debug.log
 .idea
 .DS_Store
+dist/
+test/unit/coverage
+test/e2e/reports
+selenium-debug.log
